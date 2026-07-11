@@ -1,4 +1,4 @@
 # first-repository
 my first repository
 <br>
-Author- Priyanka muduli
+Author- Priyanka Muduli
